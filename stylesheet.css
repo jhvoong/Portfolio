@@ -82,3 +82,9 @@ nav a:hover {
     padding-left: 30%;
   }
 }
+
+@media (max-width:300px) {
+  nav{
+    padding: 10px 0px 10px 0px;
+  }
+}
